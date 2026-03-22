@@ -1,0 +1,5 @@
+{
+  "name": "Event Tracker PWA",
+  "description": "A simple, one-tap event logger with persistent storage and offline support.",
+  "requestFramePermissions": []
+}
